@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Programming Languages</title>
+</head>
+<body background="https://i.pinimg.com/originals/11/65/0e/11650ed35ce448f8ab5cef13cb09c1b2.png">
+<h1><font color="004863" face="Candara" size="6"> Programming languages </font></h1>
+<p1><font color="25213B" face="Helvetica">
+It is a language which allow us to give instructions to the computer in an easy language that computer understands to produce many different forms of output.
+<br>
+<br>
+<p2><font color="274921" face="Calibri" size="4">
+The following table shows the order of <b>TOP 4</b> used languages in 2020 according to PYPL list
+</font></p2>
+<hr>
+<table border="2" bgcolor="E2E2E2" bordercolor="559253" style="width:60%">
+<tr>
+<th>Language Name</th>
+<th>Rank</th> 
+<th>Absolute percent of usage</th>
+</tr>
+<tr style="text-align:center">
+<td>Python</td>
+<td>First</td> 
+<td>29.72%</td>
+</tr>
+<tr style="text-align:center">
+<td>Java</td>
+<td>Second</td> 
+<td>19.03%</td>
+</tr>
+<tr style="text-align:center">
+<td>JavaScript</td>
+<td>Third</td> 
+<td>8.2%</td>
+</tr>
+<tr style="text-align:center">
+<td>C#</td>
+<td>Fourth</td> 
+<td>6.09%</td>
+</tr>
+</table>
+<br>
+<br>The following list allows you (<b>by clicking</b> the name) to read more about the language you want:
+<font color="0C006B" face="Arial Narrow" size="4">
+<ol type="I">
+<li><a href="chash.html" target="_blank">C#</a></li>
+<li><a href="java.html" target="_blank">java</a></li>
+<li><a href="python.html" target="_blank">Python</a></li>
+<li><a href="javascript.html" target="_blank">JavaScript</a></li>
+</ol>
+</font></p1>
+</body>
+</html>
